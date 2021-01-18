@@ -91,7 +91,7 @@
 
 
 	<properties>
-		<springboot.version>2.0.9.RELEASE</springboot.version>
+		<springboot.version>2.4.2</springboot.version>
 		<springcloud.version>Finchley.SR4</springcloud.version>
 		<spring-platform.version>Cairo-SR6</spring-platform.version>
 		<springcloud.alibaba.version>0.2.2.RELEASE</springcloud.alibaba.version>
