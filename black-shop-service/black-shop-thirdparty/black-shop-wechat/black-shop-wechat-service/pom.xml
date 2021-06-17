@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.github.binarywang</groupId>
             <artifactId>weixin-java-mp</artifactId>
-            <version>3.4.0</version>
+            <version>4.0.9.B</version>
             <exclusions>
                 <exclusion>
                     <artifactId>xstream</artifactId>
@@ -43,7 +43,7 @@
         <dependency>
             <artifactId>xstream</artifactId>
             <groupId>com.thoughtworks.xstream</groupId>
-            <version>1.4.10</version>
+            <version>1.4.17</version>
         </dependency>
     </dependencies>
 </project>
