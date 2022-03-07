@@ -12,7 +12,7 @@
 	<artifactId>black-shop-common-data</artifactId>
 
 	<properties>
-		<springboot.pagehelper.version>1.2.10</springboot.pagehelper.version>
+		<springboot.pagehelper.version>1.3.1</springboot.pagehelper.version>
 	</properties>
 
 	<dependencies>
