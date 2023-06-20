@@ -99,7 +99,7 @@
 		<springboot.swagger.version>1.8.0.RELEASE</springboot.swagger.version>
 		<springboot.mybatis.version>1.3.2</springboot.mybatis.version>
 		<hutool.version>4.5.1</hutool.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<swagger-bootstrap-ui.version>1.9.4</swagger-bootstrap-ui.version>
 		<docker.build-images-url>http://192.168.0.11:2375</docker.build-images-url>
 		<docker.plugin.version>0.4.14</docker.plugin.version>
